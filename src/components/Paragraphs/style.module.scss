@@ -1,0 +1,10 @@
+@import '../../assets/styles/variables';
+
+.paragraph {
+    font-size: $font-300;
+    color: $gray-200;
+
+    & + & {
+        margin-top: 1.5em;
+    }
+}
