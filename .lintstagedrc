@@ -1,3 +1,4 @@
 {
-  "**/*.{js,jsx}": ["eslint"]
+  "**/*.{js,jsx}": ["eslint"],
+  "**/*.{ts,tsx}": ["eslint"]
 }
